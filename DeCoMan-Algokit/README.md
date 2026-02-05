@@ -1,4 +1,4 @@
-# civitas
+# Civitas
 
 Welcome to your new AlgoKit project!
 
